@@ -5,3 +5,4 @@ Belajar Github
 -jika kita belajar, apa yang ga bisa?
 bismillahh
 bisaa
+yoo semangatt
