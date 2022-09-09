@@ -1,3 +1,4 @@
 # pertemuan-1-SBD
 Belajar Github
-saya harus bisa
+-saya harus bisa
+-jika kita belajar, apa yang ga bisa?
